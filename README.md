@@ -19,6 +19,6 @@ In delete data, the particulars of the student whose roll number is entered is d
 ______III.EXAM RECORD MANAGEMENT_______
 We have provided four options to the user which are as follows: INSERT DATA, DISPLAY DATA, UPDATE DATA and DELETE DATA.
 In insert data, the particulars of student is entered in the file. Exam particulars are marks in subjects, average marks, percentage of marks, total marks of student.
-In display data ,the particulars inserted are displayed on the screen.
+In display data ,the particulars inserted are displayed on the screen which shows grade and percentage obtained by that student in his/her exam.
 In update data ,the particulars are updated and the previous user name is replaced by the new username provided.
-In delete data, the particulars of the student whose roll number is entered is deleted.
+In delete data, the particulars of the student whose roll number is entered are deleted.
